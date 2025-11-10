@@ -6,4 +6,5 @@ pymongo
 openai
 python-dotenv
 PyJWT
+pydantic[email]
 
